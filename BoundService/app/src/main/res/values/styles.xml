@@ -1,0 +1,16 @@
+<resources>
+
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <!--   &lt;!&ndash; Base application theme. &ndash;&gt;
+    <style name="AppTheme" parent="z">
+        &lt;!&ndash; Customize your theme here. &ndash;&gt;
+    </style>
+-->
+</resources>
